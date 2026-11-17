@@ -1,0 +1,182 @@
+{
+  "brand": "Joury Boutique",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/jouryboutique.lb/",
+  "hours": "Confirm current opening hours with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-11.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg"
+  ],
+  "products": [
+    {
+      "id": "ivory-embellished-jacket",
+      "name": "Ivory Embellished Jacket Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory jacket with light decorative motifs is styled on a mannequin with a dark bow and pleated black skirt. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/"
+    },
+    {
+      "id": "cream-plush-look-jacket",
+      "name": "Cream Plush-Look Jacket",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A cream belted outer layer with a soft plush appearance, shown over a blue shirt. Exact material is unconfirmed. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfzyZoooPbl/"
+    },
+    {
+      "id": "red-outer-layer",
+      "name": "Red Outer Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red cropped bomber-style outer layer with a textured dark collar, shown over a blue shirt. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfzlTQMIWV7/"
+    },
+    {
+      "id": "patterned-belted-layer",
+      "name": "Patterned Belted Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark patterned belted jacket with brown trims and plush-look dark cuffs. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfzhGsco3oP/"
+    },
+    {
+      "id": "brown-belted-coat",
+      "name": "Brown Belted Coat",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown belted trench-style outer layer with patterned decorative upper panels. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfzbxNGID3m/"
+    },
+    {
+      "id": "dark-belted-pantsuit",
+      "name": "Dark Belted Pantsuit",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark belted jacket and straight-trouser look photographed in the boutique. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfzFcZVoNi3/"
+    },
+    {
+      "id": "black-neckline-detail",
+      "name": "Black Neckline Detail",
+      "collection": "Details",
+      "audience": "The edit",
+      "family": "",
+      "description": "A black top or dress neckline with a light decorative collar detail photographed on a mannequin. Confirm the exact item reference. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfvWTxdIehv/"
+    },
+    {
+      "id": "grey-embellished-jacket",
+      "name": "Grey Embellished Jacket Detail",
+      "collection": "Details",
+      "audience": "The edit",
+      "family": "",
+      "description": "A close photograph of a grey textured jacket with dark decorative accents and front pockets. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfvWIczouKg/"
+    },
+    {
+      "id": "dark-zip-layer",
+      "name": "Dark Decorated Zip Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark zip-front outer layer with small floral-style embellishments. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/jouryboutique.lb/reel/DfrK21otcyj/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

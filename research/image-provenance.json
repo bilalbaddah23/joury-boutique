@@ -1,0 +1,158 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+    "sha256": "01827fb703a4a2ef73306bf4470fdb4fc67aa58b57ad386b52bdaa06a4c29d04",
+    "originalDimensions": [
+      3072,
+      4096
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-02.jpg",
+    "sha256": "f6b5d9668061ec5a23f5fd8318bbd280bd2aaa9e5b8fb296aa3928941b91fbd4",
+    "originalDimensions": [
+      3072,
+      4096
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-04.jpg",
+    "sha256": "22bf09d60d3d7d5ff06a91dde20f0ca89a469e88e9642caff4665267808eed5e",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-05.jpg",
+    "sha256": "c1a4c1805445d79365af343ed643281cf2be7612d5aee927c85ed006afd4c8ab",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-06.jpg",
+    "sha256": "063f662f3d482591573e8e44f7c9012529496d37c2cb7a291ff7cd9cdc910b94",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-07.jpg",
+    "sha256": "50155ee688db52e9ec4b17aa598fa6ccb3a8fb837cbdab3926d878c23a1159c5",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-08.jpg",
+    "sha256": "70b24c3757cf14ffce7a7a1114d8f9a7de85e9acca7feb1fece5024131164f56",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-09.jpg",
+    "sha256": "b97e6e9d96298766d98dde399fd81cb058be8e566eb074715973c2c938e7614e",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-10.jpg",
+    "sha256": "24c1f5009ecd6c8685f58fd80764ffac3556d4805eef6fe1642bebc7c24ddbc6",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-12.jpg",
+    "sha256": "2b19462149f2be4798b6afa2463dfdb37507975b17ca62091901c27a243ba3bc",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-01.jpg",
+    "sha256": "c0179036e419872cbbb61488c4bc621e44dcceb1606a3827e0595196ba2adc59",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-02.jpg",
+    "sha256": "469e70ced7d69592333f6ab38ec26ed5b6e0daefb2f1ca98ae81055d7648b270",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]

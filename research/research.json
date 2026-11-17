@@ -1,0 +1,421 @@
+{
+  "brand": "Joury Boutique",
+  "handle": "jouryboutique.lb",
+  "instagram": "https://www.instagram.com/jouryboutique.lb/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "96171271963",
+  "hours": "Confirm current opening hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "24.1K",
+  "latestVisiblePost": "2026-11-16",
+  "researchDate": "2026-11-17",
+  "bioLinks": [
+    "https://www.facebook.com/share/16fD4PMhyQ/",
+    "https://www.threads.com/@jouryboutique.lb",
+    "https://www.tiktok.com/@jouryboutique.lb"
+  ],
+  "branches": [],
+  "about": "Joury Boutique shares modest fashion, outer layers and coordinated looks. Its public biography lists a story since2015, Lebanon-wide delivery and Beirut Airport Road. Instagram enquiries are used until a primary WhatsApp destination is verified.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-01.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-07.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "ivory-embellished-jacket",
+      "name": "Ivory Embellished Jacket Look",
+      "category": "Outer layers",
+      "description": "An ivory jacket with light decorative motifs is styled on a mannequin with a dark bow and pleated black skirt. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "cream-plush-look-jacket",
+      "name": "Cream Plush-Look Jacket",
+      "category": "Outer layers",
+      "description": "A cream belted outer layer with a soft plush appearance, shown over a blue shirt. Exact material is unconfirmed. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzyZoooPbl/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "red-outer-layer",
+      "name": "Red Outer Layer",
+      "category": "Outer layers",
+      "description": "A red cropped bomber-style outer layer with a textured dark collar, shown over a blue shirt. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzlTQMIWV7/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "patterned-belted-layer",
+      "name": "Patterned Belted Layer",
+      "category": "Outer layers",
+      "description": "A dark patterned belted jacket with brown trims and plush-look dark cuffs. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzhGsco3oP/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "brown-belted-coat",
+      "name": "Brown Belted Coat",
+      "category": "Outer layers",
+      "description": "A brown belted trench-style outer layer with patterned decorative upper panels. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzbxNGID3m/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "dark-belted-pantsuit",
+      "name": "Dark Belted Pantsuit",
+      "category": "Coordinated looks",
+      "description": "A dark belted jacket and straight-trouser look photographed in the boutique. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzFcZVoNi3/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-neckline-detail",
+      "name": "Black Neckline Detail",
+      "category": "Details",
+      "description": "A black top or dress neckline with a light decorative collar detail photographed on a mannequin. Confirm the exact item reference. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWTxdIehv/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "grey-embellished-jacket",
+      "name": "Grey Embellished Jacket Detail",
+      "category": "Details",
+      "description": "A close photograph of a grey textured jacket with dark decorative accents and front pockets. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWIczouKg/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "dark-zip-layer",
+      "name": "Dark Decorated Zip Layer",
+      "category": "Outer layers",
+      "description": "A dark zip-front outer layer with small floral-style embellishments. Confirm the exact included garment, measurements, colours, price and current availability with the boutique. Styling accessories are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfrK21otcyj/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/905865959_17953839150303943_9162288729755403336_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE2ODQ2MzQ1MzY2NzQ1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VCREVRo5PgkQ7kNvwF2MgHR&_nc_oc=Adp68aQLs9sLVlCHWLzUe91wsonn_6cdajiseRVVYHhjriu9zOrdG09N_W_Zs0tZffg&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=PGR-z49OGhMDiKhWL4FRCA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQTbn9-KYuWJGqs6IEIH089ig33yW5kPHj8kpshM8a2BfQ&oe=6B027333",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/",
+      "width": 3072,
+      "height": 4096,
+      "sha256": "01827fb703a4a2ef73306bf4470fdb4fc67aa58b57ad386b52bdaa06a4c29d04",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-02.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/899986111_17953839180303943_7129936610745076252_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE2ODQ3NDM1ODY2MTcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=t9JxkBrRgKgQ7kNvwG-Qk8W&_nc_oc=AdqdjjwbBe8xXCHAh4-8sr2XjR3M4YN88c2bNpQrBwBpLHh3I3wUnf3LtQG7ezPkF0s&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=PGR-z49OGhMDiKhWL4FRCA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQTO3eLRm1c0WDN1RcNnP9s8dTYGNzci9wVly9sIC80nRw&oe=6B0290A1",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/",
+      "width": 3072,
+      "height": 4096,
+      "sha256": "f6b5d9668061ec5a23f5fd8318bbd280bd2aaa9e5b8fb296aa3928941b91fbd4",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/851353553_17949067482303943_6044723243529525181_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z97B7LmpIxEQ7kNvwER2jHl&_nc_oc=AdqbRq-n77ArF9UBomcLt7JX6g2pCLuks6KWh1xsQrzJVn0g5fUcuk8GXZ2b3C0M13Y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSNd6jfY7qgZNuBempQvsddCC_kBaURUgY6QP9ZSPPBVQ&oe=6B0276B6",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/Del2gzECABA/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c0179036e419872cbbb61488c4bc621e44dcceb1606a3827e0595196ba2adc59",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/797828865_17945311092303943_1501777106327916691_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Qu3qeg1tCJQQ7kNvwGd7zcr&_nc_oc=Adr3Jy0FFHVsKsIXJCyq0EqYOfAMUWv-wShnS_hGFTfinlePsGa0w7psYjuhAwbwyB8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQmXKnMgb_ciMfh-fgHs8Rcd3WZKFA2cqUyvsFQEocpPA&oe=6B0270C6",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DdWG-3toF-W/",
+      "width": 360,
+      "height": 640,
+      "sha256": "469e70ced7d69592333f6ab38ec26ed5b6e0daefb2f1ca98ae81055d7648b270",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906072661_17954248365303943_7238974392938167807_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h2ozf4FZaiIQ7kNvwEfGpVG&_nc_oc=AdqpDGq6LQ1nowMybNweKnl6w4zOHoD7TVTTtyYpl6cWpC6gzrjzWbvJL2Jic0T-vRI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSzFDDAHff2uyOZiNlsMtWedYkve4vTsjDzcn2bbwrgew&oe=6B0263AD",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzyZoooPbl/",
+      "width": 360,
+      "height": 640,
+      "sha256": "22bf09d60d3d7d5ff06a91dde20f0ca89a469e88e9642caff4665267808eed5e",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914828708_17954232258303943_2859033515966060279_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PdiFCoTSZpQQ7kNvwE_HSWP&_nc_oc=AdrHAHSzpgqVh-423Aeti_nlKA8q4TaGImAXeH0jUkpbA6-e7A4Yabqb_i2HoanmEDM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSnjbMPuVSAeVNUVMl4R6CT6cki7i7u-Ps28reC0gkHtA&oe=6B0283FE",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzlTQMIWV7/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c1a4c1805445d79365af343ed643281cf2be7612d5aee927c85ed006afd4c8ab",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910809665_17954229273303943_7014347556830004022_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Avk-7aX3Sa8Q7kNvwG6ukYr&_nc_oc=Ado6s6EXjsKP9l6Enk4gxzSApRVDR6xyCWGBt1n01fmq2--9ielUfmrEPaEmmOOD1DA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQLr9IsI8QatfriNy83-7NiO1h0EMLXewqYTMZSZFoHgA&oe=6B029180",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzhGsco3oP/",
+      "width": 360,
+      "height": 640,
+      "sha256": "063f662f3d482591573e8e44f7c9012529496d37c2cb7a291ff7cd9cdc910b94",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912348357_17954219496303943_3107756909810275930_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AG4eO4xFcxEQ7kNvwGEzUgH&_nc_oc=Adq7nBMA9I5eduo71zddNiBR4XPdB4OABzTWGKPm9CA1vMBJAR8mYY2T5LBLmcDwMGA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQR-D5RNpg3Xdv1sjIaNoMIgntZBLj6FgeSsUN6aHIjDrQ&oe=6B027551",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzbxNGID3m/",
+      "width": 360,
+      "height": 640,
+      "sha256": "50155ee688db52e9ec4b17aa598fa6ccb3a8fb837cbdab3926d878c23a1159c5",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907274186_17954194575303943_2425964044288107261_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cPh8KAn4kmYQ7kNvwGIa468&_nc_oc=AdouG22mSq302u_Z2xCI_PwIkPnES50ZfuyoQhzggHZMnBFlqsm25vFRADZ01mpRxYM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTopyk-8mVhIu7SJ1vY9rt0XgR5cdHx9c8OjSlPJKQ3vw&oe=6B02662D",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzFcZVoNi3/",
+      "width": 360,
+      "height": 640,
+      "sha256": "70b24c3757cf14ffce7a7a1114d8f9a7de85e9acca7feb1fece5024131164f56",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902246567_17953928280303943_7656161992242044312_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9f6Ox7hKMk0Q7kNvwFNZPGk&_nc_oc=AdoQFrPtATOZVw5UvmvN3dgKmAcZpg7TsLW_jKhmEkC6Z7LmH4hPZsJvdHS9mKUj6NA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQpYdi2al5FWNz4ALlqoxnLAuhf0s8njKLUV1fXALY_VQ&oe=6B0291ED",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWTxdIehv/",
+      "width": 360,
+      "height": 640,
+      "sha256": "b97e6e9d96298766d98dde399fd81cb058be8e566eb074715973c2c938e7614e",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900005180_17953927689303943_3459443863759806666_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C0Ad_2RgoaAQ7kNvwEJEkMc&_nc_oc=AdoAEQ_y-wn3fno3A-UvwTq4azYTUQJ69TmptkmHXO9U0-wnrfiYLQG_-1OIxVX9kdw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTBhLoRpiz8wzPQRqFQk8zKmEdujfzTydc9qCiLZgj2HQ&oe=6B02655E",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWIczouKg/",
+      "width": 360,
+      "height": 640,
+      "sha256": "24c1f5009ecd6c8685f58fd80764ffac3556d4805eef6fe1642bebc7c24ddbc6",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900539472_17953637697303943_1298957375501443863_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fucLCP2hPtUQ7kNvwHshkdD&_nc_oc=AdpytPGyDCrVRN2-SwIzAwF1Im6CJ-eM8PlpRCnc_2Gb_oV9jzjA5OQrxPDwvJijibQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRyWx8mABYVVlVctNAFiQPH_m2qP5w646zqiqWmBiKouw&oe=6B027C81",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfrK21otcyj/",
+      "width": 360,
+      "height": 640,
+      "sha256": "2b19462149f2be4798b6afa2463dfdb37507975b17ca62091901c27a243ba3bc",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    }
+  ],
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-01.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/905865959_17953839150303943_9162288729755403336_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE2ODQ2MzQ1MzY2NzQ1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VCREVRo5PgkQ7kNvwF2MgHR&_nc_oc=Adp68aQLs9sLVlCHWLzUe91wsonn_6cdajiseRVVYHhjriu9zOrdG09N_W_Zs0tZffg&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=PGR-z49OGhMDiKhWL4FRCA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQTbn9-KYuWJGqs6IEIH089ig33yW5kPHj8kpshM8a2BfQ&oe=6B027333",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/",
+      "width": 3072,
+      "height": 4096,
+      "sha256": "01827fb703a4a2ef73306bf4470fdb4fc67aa58b57ad386b52bdaa06a4c29d04",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\native-02.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/899986111_17953839180303943_7129936610745076252_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDE2ODQ3NDM1ODY2MTcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=t9JxkBrRgKgQ7kNvwG-Qk8W&_nc_oc=AdqdjjwbBe8xXCHAh4-8sr2XjR3M4YN88c2bNpQrBwBpLHh3I3wUnf3LtQG7ezPkF0s&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=PGR-z49OGhMDiKhWL4FRCA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQTO3eLRm1c0WDN1RcNnP9s8dTYGNzci9wVly9sIC80nRw&oe=6B0290A1",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/DfuCVSBiOPq/",
+      "width": 3072,
+      "height": 4096,
+      "sha256": "f6b5d9668061ec5a23f5fd8318bbd280bd2aaa9e5b8fb296aa3928941b91fbd4",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/851353553_17949067482303943_6044723243529525181_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z97B7LmpIxEQ7kNvwER2jHl&_nc_oc=AdqbRq-n77ArF9UBomcLt7JX6g2pCLuks6KWh1xsQrzJVn0g5fUcuk8GXZ2b3C0M13Y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSNd6jfY7qgZNuBempQvsddCC_kBaURUgY6QP9ZSPPBVQ&oe=6B0276B6",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/p/Del2gzECABA/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c0179036e419872cbbb61488c4bc621e44dcceb1606a3827e0595196ba2adc59",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/797828865_17945311092303943_1501777106327916691_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Qu3qeg1tCJQQ7kNvwGd7zcr&_nc_oc=Adr3Jy0FFHVsKsIXJCyq0EqYOfAMUWv-wShnS_hGFTfinlePsGa0w7psYjuhAwbwyB8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQmXKnMgb_ciMfh-fgHs8Rcd3WZKFA2cqUyvsFQEocpPA&oe=6B0270C6",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DdWG-3toF-W/",
+      "width": 360,
+      "height": 640,
+      "sha256": "469e70ced7d69592333f6ab38ec26ed5b6e0daefb2f1ca98ae81055d7648b270",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906072661_17954248365303943_7238974392938167807_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h2ozf4FZaiIQ7kNvwEfGpVG&_nc_oc=AdqpDGq6LQ1nowMybNweKnl6w4zOHoD7TVTTtyYpl6cWpC6gzrjzWbvJL2Jic0T-vRI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSzFDDAHff2uyOZiNlsMtWedYkve4vTsjDzcn2bbwrgew&oe=6B0263AD",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzyZoooPbl/",
+      "width": 360,
+      "height": 640,
+      "sha256": "22bf09d60d3d7d5ff06a91dde20f0ca89a469e88e9642caff4665267808eed5e",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914828708_17954232258303943_2859033515966060279_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PdiFCoTSZpQQ7kNvwE_HSWP&_nc_oc=AdrHAHSzpgqVh-423Aeti_nlKA8q4TaGImAXeH0jUkpbA6-e7A4Yabqb_i2HoanmEDM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSnjbMPuVSAeVNUVMl4R6CT6cki7i7u-Ps28reC0gkHtA&oe=6B0283FE",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzlTQMIWV7/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c1a4c1805445d79365af343ed643281cf2be7612d5aee927c85ed006afd4c8ab",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910809665_17954229273303943_7014347556830004022_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Avk-7aX3Sa8Q7kNvwG6ukYr&_nc_oc=Ado6s6EXjsKP9l6Enk4gxzSApRVDR6xyCWGBt1n01fmq2--9ielUfmrEPaEmmOOD1DA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQLr9IsI8QatfriNy83-7NiO1h0EMLXewqYTMZSZFoHgA&oe=6B029180",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzhGsco3oP/",
+      "width": 360,
+      "height": 640,
+      "sha256": "063f662f3d482591573e8e44f7c9012529496d37c2cb7a291ff7cd9cdc910b94",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912348357_17954219496303943_3107756909810275930_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AG4eO4xFcxEQ7kNvwGEzUgH&_nc_oc=Adq7nBMA9I5eduo71zddNiBR4XPdB4OABzTWGKPm9CA1vMBJAR8mYY2T5LBLmcDwMGA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQR-D5RNpg3Xdv1sjIaNoMIgntZBLj6FgeSsUN6aHIjDrQ&oe=6B027551",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzbxNGID3m/",
+      "width": 360,
+      "height": 640,
+      "sha256": "50155ee688db52e9ec4b17aa598fa6ccb3a8fb837cbdab3926d878c23a1159c5",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907274186_17954194575303943_2425964044288107261_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cPh8KAn4kmYQ7kNvwGIa468&_nc_oc=AdouG22mSq302u_Z2xCI_PwIkPnES50ZfuyoQhzggHZMnBFlqsm25vFRADZ01mpRxYM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTopyk-8mVhIu7SJ1vY9rt0XgR5cdHx9c8OjSlPJKQ3vw&oe=6B02662D",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfzFcZVoNi3/",
+      "width": 360,
+      "height": 640,
+      "sha256": "70b24c3757cf14ffce7a7a1114d8f9a7de85e9acca7feb1fece5024131164f56",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902246567_17953928280303943_7656161992242044312_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9f6Ox7hKMk0Q7kNvwFNZPGk&_nc_oc=AdoQFrPtATOZVw5UvmvN3dgKmAcZpg7TsLW_jKhmEkC6Z7LmH4hPZsJvdHS9mKUj6NA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQpYdi2al5FWNz4ALlqoxnLAuhf0s8njKLUV1fXALY_VQ&oe=6B0291ED",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWTxdIehv/",
+      "width": 360,
+      "height": 640,
+      "sha256": "b97e6e9d96298766d98dde399fd81cb058be8e566eb074715973c2c938e7614e",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900005180_17953927689303943_3459443863759806666_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C0Ad_2RgoaAQ7kNvwEJEkMc&_nc_oc=AdoAEQ_y-wn3fno3A-UvwTq4azYTUQJ69TmptkmHXO9U0-wnrfiYLQG_-1OIxVX9kdw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTBhLoRpiz8wzPQRqFQk8zKmEdujfzTydc9qCiLZgj2HQ&oe=6B02655E",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfvWIczouKg/",
+      "width": 360,
+      "height": 640,
+      "sha256": "24c1f5009ecd6c8685f58fd80764ffac3556d4805eef6fe1642bebc7c24ddbc6",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\joury-boutique\\assets\\joury-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900539472_17953637697303943_1298957375501443863_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fucLCP2hPtUQ7kNvwHshkdD&_nc_oc=AdpytPGyDCrVRN2-SwIzAwF1Im6CJ-eM8PlpRCnc_2Gb_oV9jzjA5OQrxPDwvJijibQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1W4T1_wPsXsdqOkwPahdSA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRyWx8mABYVVlVctNAFiQPH_m2qP5w646zqiqWmBiKouw&oe=6B027C81",
+      "sourcePost": "https://www.instagram.com/jouryboutique.lb/reel/DfrK21otcyj/",
+      "width": 360,
+      "height": 640,
+      "sha256": "2b19462149f2be4798b6afa2463dfdb37507975b17ca62091901c27a243ba3bc",
+      "sourceImageType": "Native public Reel-cover still; no video frame extraction",
+      "observedDate": "2026-11-17"
+    }
+  ],
+  "activityEvidence": "Own public profile grid contains recent November2026 posts; latest visible date2026-11-16. Pinned older posts were not mistaken for current activity.",
+  "websiteCheck": {
+    "result": "No matching official website found in checked public profile links and bounded handle/name searches; an unlisted site cannot be ruled out.",
+    "checkedDate": "2026-11-17",
+    "evidence": "Expanded biography and Facebook/Threads/TikTok links show no shop link. Exact handle website/shop search returned social posts without a matching official shop.",
+    "sources": [
+      "https://www.instagram.com/jouryboutique.lb/"
+    ]
+  },
+  "contactEvidence": "Current biography lists telephone71271963, but does not explicitly confirm WhatsApp. No WhatsApp number is published by this demo; use official Instagram direct messages.",
+  "imageNotes": "12 selected stills:10publicprofile images (onephoto and9nativeReelcover stills) plus2native3072×4096jacket-carousel photographs. Excluded a Location-only poster and the lower-resolution copy of the native jacket hero. Some store/people photographs contain original Arabic captions, without current prices. No person is identified as owner/founder. No material, authenticity or stock guarantee. No video downloads/frame extraction, image generation or upscaling. Native jacket views grouped as one look."
+}
